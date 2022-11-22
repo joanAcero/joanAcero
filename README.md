@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joan Acero Pousa</h1>
 
-  - 🌱 I’m currently studying  [__Computer Engineering in Barcelona. ( Facultat d'Informàtica de Barcelona, UPC)__](https://www.fib.upc.edu/en)
+  - 🌱 I’m currently studying  __Computer Engineering in Barcelona.__ [( Facultat d'Informàtica de Barcelona, UPC)](https://www.fib.upc.edu/en)
 
 - 👨‍💻 All of my projects are available at [github](github)
 
