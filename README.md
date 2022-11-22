@@ -2,7 +2,7 @@
 
   - 🌱 I’m currently studying  __Computer Engineering in Barcelona.__ [( Facultat d'Informàtica de Barcelona, UPC)](https://www.fib.upc.edu/en)
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://github.com/joanAcero)
 
 - 📫 How to reach me **joan.acero@estudiantat.upc.edu**
 
