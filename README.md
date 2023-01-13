@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **joan.acero@estudiantat.upc.edu**
 
-- This is my [LinkedIn](www.linkedin.com/in/joan-acero-pousa)
+- This is my [LinkedIn](https://www.linkedin.com/in/joan-acero-pousa/)
