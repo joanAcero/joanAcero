@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Joan Acero Pousa
 
-I'm fascinated by the intersection of computer theory, algorithms, and artificial intelligence. I have a strong interest in both foundational research and building real-world applications that solve complex problems.
+I'm fascinated by the mathematical and theoretical foundations of computer science, algorithms, and artificial intelligence. I am strongly interested in both foundational research and building real-world applications that solve complex problems.
 
 - [LinkedIn](https://www.linkedin.com/in/joanaceropousa/)
+- [Google Scholar](https://scholar.google.com/citations?user=FTZO8ykAAAAJ&hl)
